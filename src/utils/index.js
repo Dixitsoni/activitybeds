@@ -208,3 +208,18 @@ export const bookings = [
         productDetails: 'IGI to South delhi'
     },
 ]
+
+
+export const TableHeader = [
+    { key: "Booking Status", width: '20px' },
+    { key: "Agent", width: '269px' },
+    { key: "Booking Source", width: '5px' },
+    { key: "Booking ID", width: '30px' },
+    { key: "Booking Date", width: '60px' },
+    { key: "Travel Date", width: '95px' },
+    { key: "Lead Pax Name", width: '50px' },
+    { key: "Product Type", width: '30px' },
+    { key: "Booking Status", width: '30px' },
+    { key: "Product City", width: '50px' },
+    { key: "Name", width: '250px' }
+]
